@@ -1,0 +1,8 @@
+# VRS DirectForce
+id-input:modalias:input:*v0483pa355*
+ ID_INPUT_JOYSTICK=1
+
+# VRS DirectForce Pro Pedals
+id-input:modalias:input:*v0483pa3be*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1

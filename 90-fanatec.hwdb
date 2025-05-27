@@ -1,0 +1,8 @@
+# Fanatec Clubsport Shifter
+id-input:modalias:input:*v0eb7p1a92*
+ ID_INPUT_JOYSTICK=1
+
+
+# Fanatec Clubsport Handbrake
+id-input:modalias:input:*v0eb7p1a93*
+ ID_INPUT_JOYSTICK=1

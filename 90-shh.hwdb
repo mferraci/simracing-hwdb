@@ -1,0 +1,3 @@
+# SHH shifters
+id-input:modalias:input:*v16c0p05e1*
+ ID_INPUT_JOYSTICK=1

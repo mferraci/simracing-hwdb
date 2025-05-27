@@ -1,0 +1,4 @@
+# Leo Bodnar pedals controller
+id-input:modalias:input:*v1dd2p100c*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1

@@ -1,0 +1,18 @@
+# Heusinkveld Handbrake
+id-input:modalias:input:*v10c4p8b82*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
+
+# Heusinkveld Sequential Shifter
+id-input:modalias:input:*va020p3142*
+ ID_INPUT_JOYSTICK=1
+
+# Heusinkveld Sprint Pedals
+id-input:modalias:input:*v30b7p1001*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
+
+# Heusinkveld Ultimate Pedals
+id-input:modalias:input:*v30b7p1003*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
